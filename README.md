@@ -1,16 +1,25 @@
-### Hi there 👋
+<strong>Hello guys! My name is Stanislav!</strong>
 
-<!--
-**Niko91101/Niko91101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/leucochloris/leucochloris/blob/main/assets/code.gif" data-target="animated-image.originalLink"><img src="https://github.com/leucochloris/leucochloris/raw/main/assets/code.gif" alt="Header" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![PostMan](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=79309C)
+![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=2684FF)
+![SQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=007979)
+![HTML5](https://img.shields.io/badge/-HTML5-111115?style=for-the-badge&logo=HTML5&logoColor=e54d26)
+![CSS3](https://img.shields.io/badge/-CSS3-111115?style=for-the-badge&logo=CSS3&logoColor=0066cc)
+![HTML5](https://img.shields.io/badge/-HTML5-111115?style=for-the-badge&logo=HTML5&logoColor=e54d26)
+
+### Socials
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/niko91101)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nikocfc)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/niko911)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Niko91101&theme=tokyonight&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&stroke=3F26DD)](https://git.io/streak-stats)
+
