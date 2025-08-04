@@ -6,14 +6,17 @@
 
 ### Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![PostMan](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=79309C)
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=2684FF)
 ![SQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=007979)
 ![HTML5](https://img.shields.io/badge/-HTML5-111115?style=for-the-badge&logo=HTML5&logoColor=e54d26)
 ![CSS3](https://img.shields.io/badge/-CSS3-111115?style=for-the-badge&logo=CSS3&logoColor=0066cc)
-![HTML5](https://img.shields.io/badge/-HTML5-111115?style=for-the-badge&logo=HTML5&logoColor=e54d26)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&logoColor=007396)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=apachekafka&logoColor=231F20)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ### Socials
 
